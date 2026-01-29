@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Hi, I'm Chandru
 
-<!--
-**chandrum-tech/chandrum-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI & Machine Learning Enthusiast  
+💻 Python Developer | Deep Learning | Computer Vision  
 
-Here are some ideas to get you started:
+I’m passionate about building **real-world AI solutions** in healthcare, satellite imagery, and accessibility technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills & Technologies
+
+### 🧠 Core Domains
+- Machine Learning
+- Deep Learning (CNN, LSTM)
+- Computer Vision
+- AI for Healthcare
+- Data Analysis
+
+### 🛠️ Programming & Frameworks
+- Python
+- Flask
+- FastAPI
+- SQL
+
+### 📚 Libraries & Tools
+- NumPy
+- Pandas
+- TensorFlow
+- Scikit-learn
+
+---
+
+## 📂 Featured Projects
+
+- **Tree Age Estimation from Satellite Images**  
+  Estimating tree age using remote sensing data and deep learning models.
+
+- **Pregnancy Risk Analysis System**  
+  ML-based healthcare system to analyze and classify pregnancy risk levels.
+
+- **Mental Health Chatbot**  
+  An AI chatbot designed to provide mental health support and guidance.
+
+- **Healthcare Chatbot**  
+  Intelligent chatbot for basic medical assistance and health-related queries.
+
+- **Braille ↔ Text ↔ Voice (Bidirectional System)**  
+  Accessibility-focused system converting Braille to text and voice, and vice versa.
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: **chandrumvp123@gmail.com**
+- 🔗 LinkedIn: *(will be added soon)*
+
+---
+
+⭐ *Always eager to learn, build, and contribute to impactful AI projects.*
