@@ -32,17 +32,17 @@ I’m passionate about building **real-world AI solutions** in healthcare, satel
 
 ## 📂 Featured Projects
 
-- **Tree Age Estimation from Satellite Images**  
-  Estimating tree age using remote sensing data and deep learning models.
-
-- **Pregnancy Risk Analysis System**  
-  ML-based healthcare system to analyze and classify pregnancy risk levels.
-
 - **Mental Health Chatbot**  
   An AI chatbot designed to provide mental health support and guidance.
 
 - **Healthcare Chatbot**  
   Intelligent chatbot for basic medical assistance and health-related queries.
+
+- **Tree Age Estimation from Satellite Images**  
+  Estimating tree age using remote sensing data and deep learning models.
+
+- **Pregnancy Risk Analysis System**  
+  ML-based healthcare system to analyze and classify pregnancy risk levels.
 
 - **Braille ↔ Text ↔ Voice (Bidirectional System)**  
   Accessibility-focused system converting Braille to text and voice, and vice versa.
